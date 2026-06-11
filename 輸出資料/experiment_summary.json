@@ -1,0 +1,20 @@
+{
+  "model_name": "hfl/chinese-macbert-base",
+  "max_len": 384,
+  "batch_size": 8,
+  "epochs": 8,
+  "learning_rate": 2e-05,
+  "dropout_rate": 0.2,
+  "text_mode": "head_tail",
+  "use_class_weight": true,
+  "use_field_loss_weight": true,
+  "use_postprocess": true,
+  "use_esg_type": true,
+  "best_weighted_score": 0.5664785960009552,
+  "field_scores": {
+    "promise_status": 0.7581845238095238,
+    "verification_timeline": 0.4879350580637725,
+    "evidence_status": 0.6134089205397302,
+    "evidence_quality": 0.4503678753359015
+  }
+}

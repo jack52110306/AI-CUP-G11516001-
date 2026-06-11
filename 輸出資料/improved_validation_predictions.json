@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "10366",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10375",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10042",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10335",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10661",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10986",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10188",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10957",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10786",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10824",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10903",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10476",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10520",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10766",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10313",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10419",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10618",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10592",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10450",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10027",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10768",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10978",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10975",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10883",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10609",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10820",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10037",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10562",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10787",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10796",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10228",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10600",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10897",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10147",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10996",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10932",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10906",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10186",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10093",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10797",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10485",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10873",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10423",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10179",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10204",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10938",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10834",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10062",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10171",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10336",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10247",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10915",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10331",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10326",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10919",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10904",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10747",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10610",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10778",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10884",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10874",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10222",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10498",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10613",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10155",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10892",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10144",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10656",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10041",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10240",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10056",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10642",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10349",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10564",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10583",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10137",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10752",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10733",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10731",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10190",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10009",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10551",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10148",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10238",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10002",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10268",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10997",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "11000",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10317",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10311",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10053",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10465",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10267",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10810",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10686",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10394",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10735",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10176",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10527",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10574",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10156",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10117",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10448",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10678",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10260",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10565",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10887",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10463",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10989",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10416",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10764",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10531",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10830",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10470",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10175",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10273",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10525",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10130",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10128",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10963",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10879",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10569",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10983",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10809",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10464",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10480",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10675",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10497",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10646",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10061",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10443",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10181",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10927",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10023",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10767",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10697",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10096",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10992",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10528",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10838",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10030",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10847",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10805",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10842",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10965",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10951",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10231",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10994",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10620",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10192",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10704",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10354",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10694",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10972",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10555",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10864",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10880",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10971",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10278",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10353",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10732",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10544",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10935",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10330",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10484",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10293",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10160",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10439",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10504",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10301",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10855",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10729",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10449",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10614",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10235",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10339",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10358",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10245",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10347",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10792",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10730",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10624",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10218",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "within_2_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10269",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10018",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10909",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10856",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10507",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10749",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10136",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10676",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Not Clear"
+    }
+  },
+  {
+    "id": "10573",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10934",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "between_2_and_5_years",
+      "evidence_status": "No",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10407",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10926",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10180",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10882",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10122",
+    "prediction": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "more_than_5_years",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  },
+  {
+    "id": "10621",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    }
+  },
+  {
+    "id": "10914",
+    "prediction": {
+      "promise_status": "No",
+      "verification_timeline": "N/A",
+      "evidence_status": "N/A",
+      "evidence_quality": "N/A"
+    },
+    "ground_truth": {
+      "promise_status": "Yes",
+      "verification_timeline": "already",
+      "evidence_status": "Yes",
+      "evidence_quality": "Clear"
+    }
+  }
+]
